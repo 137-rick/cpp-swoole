@@ -15,7 +15,9 @@ sudo make install
 Build
 ====
 ```shell
-cmake .
+mkdir build
+cd build
+cmake ..
 make
 ```
 
